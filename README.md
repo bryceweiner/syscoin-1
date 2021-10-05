@@ -8,6 +8,7 @@ https://syscoincore.org/en/download/.
 
 Further information about Syscoin Core is available in the [doc folder](/doc).
 
+
 What is Syscoin?
 ----------------
 
